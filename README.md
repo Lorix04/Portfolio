@@ -53,7 +53,7 @@ Descrizione breve del progetto 8. Spiega cosa fa il progetto e qualsiasi altra i
 
 ## Contattami
 
-- **Email:** tuo-email@example.com
+- **Email:** lorenzo.domenico.cerantonio@gmail.com
 - **LinkedIn:** [Il tuo profilo LinkedIn](https://linkedin.com/in/tuo-username)
 - **Sito Web:** [Il tuo sito web personale](https://tuo-sito-web.com)
 
