@@ -5,7 +5,7 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 ## Sommario
 
 - [Progetti Web](#progetti-web)
-- [Progetti di Data Science](#progetti-di-data-science)
+- [Progetti Python](#progetti-di-data-science)
 - [Progetti di Automazione](#progetti-di-automazione)
 - [Altro](#altro)
 
