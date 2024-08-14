@@ -30,9 +30,9 @@ Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di access
 
 ## Progetti Python
 
-### [Nome del Progetto 3](https://github.com/tuo-username/nome-del-progetto-3)
+### [Python da 0](https://colab.research.google.com/drive/1YusyKj-pGpYsNQGc88sLvBo3hFjnGrLO?usp=sharing)
 ![Screenshot del Progetto 3](link-al-tuo-screenshot.jpg)
-Descrizione breve del progetto 3. Spiega cosa fa il progetto, i dataset utilizzati, le tecniche di analisi e qualsiasi altra informazione rilevante.
+In questo progetto ho usato Google Colab per imparare Python direttamente dal browser scrivendo tutte le funzioni base creando degli esempi.
 
 ### [Nome del Progetto 4](https://github.com/tuo-username/nome-del-progetto-4)
 ![Screenshot del Progetto 4](link-al-tuo-screenshot.jpg)
