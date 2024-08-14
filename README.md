@@ -19,7 +19,7 @@ L'utente potrà scegliere due modalità:
 - **Indovina Utente:** L'utente farà delle domande al PC per indovinare il personaggio da lui scelto.
 
 ### [Pizzeria Puzza](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
-![Screenshot del Progetto 2](link-al-tuo-screenshot.jpg)
+![Screenshot del Progetto 2](/Img/yr5herhrjhdsert.PNG)
 Descrizione breve del progetto 2. Spiega cosa fa il progetto, le tecnologie utilizzate e qualsiasi altra informazione rilevante.
 
 ## Progetti di Data Science
