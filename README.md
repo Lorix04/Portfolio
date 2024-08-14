@@ -32,7 +32,8 @@ Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di access
 
 ### [Python da 0](https://colab.research.google.com/drive/1YusyKj-pGpYsNQGc88sLvBo3hFjnGrLO?usp=sharing)
 ![Screenshot del Progetto 3](Img/gwrrgwweg.PNG)
-In questo progetto ho usato Google Colab per imparare Python direttamente dal browser scrivendo tutte le funzioni base creando degli esempi.
+
+In questo progetto ho usato Google Colab per imparare Python direttamente dal browser scrivendo tutte le funzioni base e usando degli esempi.
 
 ### [Nome del Progetto 4](https://github.com/tuo-username/nome-del-progetto-4)
 ![Screenshot del Progetto 4](link-al-tuo-screenshot.jpg)
