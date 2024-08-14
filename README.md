@@ -12,7 +12,7 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 ## Progetti Web
 
 ### [Nome del Progetto 1](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
-![Screenshot del Progetto 1](link-al-tuo-screenshot.jpg)
+![Screenshot del Progetto 1](/Img/grgwewgewg.PNG)
 Descrizione breve del progetto 1. Spiega cosa fa il progetto, le tecnologie utilizzate e qualsiasi altra informazione rilevante.
 
 ### [Nome del Progetto 2](https://github.com/tuo-username/nome-del-progetto-2)
