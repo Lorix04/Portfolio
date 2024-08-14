@@ -63,7 +63,7 @@ Descrizione breve del progetto 8. Spiega cosa fa il progetto e qualsiasi altra i
 ## Contattami
 
 - **Email:** lorenzo.domenico.cerantonio@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/lorenzo-cerantonio-4830052bb](www.linkedin.com/in/lorenzo-cerantonio-4830052bb)
+- **LinkedIn:** www.linkedin.com/in/lorenzo-cerantonio-4830052bb
 <!-- - **Sito Web:** [Il tuo sito web personale](https://tuo-sito-web.com) -->
 
 Grazie per aver visitato il mio portfolio!
