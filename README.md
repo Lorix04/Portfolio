@@ -13,7 +13,7 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 
 ### [Nome del Progetto 1](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
 ![Screenshot del Progetto 1](/Img/grgwewgewg.PNG)
-Descrizione breve del progetto 1. Spiega cosa fa il progetto, le tecnologie utilizzate e qualsiasi altra informazione rilevante.
+"Guess Who?" è un coinvolgente gioco web che ho sviluppato, basato sul celebre gioco da tavolo.
 
 ### [Nome del Progetto 2](https://github.com/tuo-username/nome-del-progetto-2)
 ![Screenshot del Progetto 2](link-al-tuo-screenshot.jpg)
