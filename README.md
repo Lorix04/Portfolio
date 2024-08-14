@@ -21,6 +21,7 @@ L'utente potrà scegliere due modalità:
 
 **Tecnologie Usate:** HTML/JS/CSS
 
+
 ### [Pizzeria Puzza](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
 ![Screenshot del Progetto 2](/Img/yr5herhrjhdsert.PNG)
 Descrizione breve del progetto 2. Spiega cosa fa il progetto, le tecnologie utilizzate e qualsiasi altra informazione rilevante.
