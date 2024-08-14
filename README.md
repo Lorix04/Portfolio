@@ -34,7 +34,7 @@ Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di access
 ![Screenshot del Progetto 3](Img/gwrrgwweg.PNG)
 
 In questo progetto ho usato Google Colab per imparare Python direttamente dal browser scrivendo tutte le funzioni base e usando degli esempi.
-
+<!--
 ### [Nome del Progetto 4](https://github.com/tuo-username/nome-del-progetto-4)
 ![Screenshot del Progetto 4](link-al-tuo-screenshot.jpg)
 Descrizione breve del progetto 4. Spiega cosa fa il progetto, i dataset utilizzati, le tecniche di analisi e qualsiasi altra informazione rilevante.
@@ -58,7 +58,7 @@ Descrizione breve del progetto 7. Spiega cosa fa il progetto e qualsiasi altra i
 ### [Nome del Progetto 8](https://github.com/tuo-username/nome-del-progetto-8)
 ![Screenshot del Progetto 8](link-al-tuo-screenshot.jpg)
 Descrizione breve del progetto 8. Spiega cosa fa il progetto e qualsiasi altra informazione rilevante.
-
+-->
 ---
 
 ## Contattami
