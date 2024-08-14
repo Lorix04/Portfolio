@@ -18,11 +18,13 @@ L'utente potrà scegliere due modalità:
 - **Indovina PC:** Il PC dovrà indovinare il nostro personaggio  da noi scelto facendoci delle domande.
 - **Indovina Utente:** L'utente farà delle domande al PC per indovinare il personaggio da lui scelto.
 
+**Tecnologie Usate:** HTML/JS/CSS
+
 ### [Pizzeria Puzza](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
 ![Screenshot del Progetto 2](/Img/yr5herhrjhdsert.PNG)
 Descrizione breve del progetto 2. Spiega cosa fa il progetto, le tecnologie utilizzate e qualsiasi altra informazione rilevante.
 
-## Progetti di Data Science
+## Progetti Python
 
 ### [Nome del Progetto 3](https://github.com/tuo-username/nome-del-progetto-3)
 ![Screenshot del Progetto 3](link-al-tuo-screenshot.jpg)
