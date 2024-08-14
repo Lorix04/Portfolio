@@ -6,7 +6,7 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 
 - [Progetti Web](#progetti-web)
 - [Progetti Python](#progetti-python)
-- [Contattimi](#contattimi)
+- [Contattami](#contattami)
 
 ## Progetti Web
 
