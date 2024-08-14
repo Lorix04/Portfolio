@@ -1,4 +1,4 @@
-# Portfolio di [Tuo Nome]
+# Portfolio di Lorenzo Domenico Cerantonio
 
 Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddivisi per categoria. Ogni progetto include una breve descrizione e un link al repository GitHub.
 
