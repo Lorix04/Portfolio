@@ -18,7 +18,7 @@ L'utente potrà scegliere due modalità:
 - **Indovina PC:** Il PC dovrà indovinare il nostro personaggio  da noi scelto facendoci delle domande.
 - **Indovina Utente:** L'utente farà delle domande al PC per indovinare il personaggio da lui scelto.
 
-### [Nome del Progetto 2](https://github.com/tuo-username/nome-del-progetto-2)
+### [Pizzeria Puzza](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
 ![Screenshot del Progetto 2](link-al-tuo-screenshot.jpg)
 Descrizione breve del progetto 2. Spiega cosa fa il progetto, le tecnologie utilizzate e qualsiasi altra informazione rilevante.
 
