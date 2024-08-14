@@ -23,7 +23,10 @@ L'utente potrà scegliere due modalità:
 
 ### [Pizzeria Puzza](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
 ![Screenshot del Progetto 2](/Img/yr5herhrjhdsert.PNG)
-Descrizione breve del progetto 2. Spiega cosa fa il progetto, le tecnologie utilizzate e qualsiasi altra informazione rilevante.
+
+Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di accesso e registrazione per gli utenti, una home che presenta la pizzeria e le sue specialità e un menu dettagliato con tutte le pizze disponibili, complete di descrizioni e prezzi.
+
+**Tecnologie Usate:** HTML/JS/CSS/PHP/jQuery
 
 ## Progetti Python
 
