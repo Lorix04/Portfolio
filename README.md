@@ -96,7 +96,6 @@ Descrizione breve del progetto 7. Spiega cosa fa il progetto e qualsiasi altra i
 ![Screenshot del Progetto 8](link-al-tuo-screenshot.jpg)
 Descrizione breve del progetto 8. Spiega cosa fa il progetto e qualsiasi altra informazione rilevante.
 
-[![My Skills](https://skillicons.dev/icons?i=py)]()
 
 ## Contattami
 
