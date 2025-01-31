@@ -10,7 +10,7 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 
 ## Progetti Web
 
-### [Gioco Dadi](http://www.lorenzocerantonio5bi.altervista.org/dadi/index.html)
+### [Gioco Dadi](https://github.com/Lorix04/GiocoDadi)
 ![Screenshot del Progetto 1](/Img/dadi.PNG)
 
 Benvenuto nel mio gioco di dadi! In questo gioco, l'utente si sfida contro un bot. 
@@ -24,6 +24,9 @@ Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
    - Se i dadi sono uguali, è un pareggio!
 
 **Tecnologie Usate:** HTML/JS/CSS
+
+**Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/dadi/index.html)
+**Link GitHub:** [Clicca qui](https://github.com/Lorix04/GiocoDadi)
 
 ### [Guess Who?](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
 ![Screenshot del Progetto 1](/Img/grgwewgewg.PNG)
