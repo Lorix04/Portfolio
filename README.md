@@ -26,6 +26,7 @@ Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
 **Tecnologie Usate:** HTML/JS/CSS
 
 **Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/dadi/index.html)
+
 **Link GitHub:** [Clicca qui](https://github.com/Lorix04/GiocoDadi)
 
 ### [Guess Who?](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
