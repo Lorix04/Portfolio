@@ -18,6 +18,8 @@ Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di access
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery)]()
 
 **Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
+**Link GitHub**:
+
 [![My Skills](https://skillicons.dev/icons?i=github)]()
 
 ### [Guess Who?](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
