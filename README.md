@@ -71,7 +71,7 @@ Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
 ![Screenshot del Progetto 3](Img/gwrrgwweg.PNG)
 
 In questo progetto ho usato Google Colab per imparare Python direttamente dal browser scrivendo tutte le funzioni base e usando degli esempi.
-<!--
+
 ### [Nome del Progetto 4](https://github.com/tuo-username/nome-del-progetto-4)
 ![Screenshot del Progetto 4](link-al-tuo-screenshot.jpg)
 Descrizione breve del progetto 4. Spiega cosa fa il progetto, i dataset utilizzati, le tecniche di analisi e qualsiasi altra informazione rilevante.
@@ -96,6 +96,7 @@ Descrizione breve del progetto 7. Spiega cosa fa il progetto e qualsiasi altra i
 ![Screenshot del Progetto 8](link-al-tuo-screenshot.jpg)
 Descrizione breve del progetto 8. Spiega cosa fa il progetto e qualsiasi altra informazione rilevante.
 
+[![My Skills](https://skillicons.dev/icons?i=py)]()
 
 ## Contattami
 
@@ -103,7 +104,6 @@ Descrizione breve del progetto 8. Spiega cosa fa il progetto e qualsiasi altra i
 - **LinkedIn:** www.linkedin.com/in/lorenzo-cerantonio-4830052bb
   
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/lorenzo-cerantonio-4830052bb)   [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=lorenzo.domenico.cerantonio@gmail.com&su=SUBJECT&body=BODY&bcc=lorenzo.domenico.cerantonio@gmail.com)
-<!-- - **Sito Web:** [Il tuo sito web personale](https://tuo-sito-web.com) -->
 
 Grazie per aver visitato il mio portfolio!
 
