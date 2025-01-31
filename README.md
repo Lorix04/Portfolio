@@ -68,8 +68,6 @@ Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
 ## Progetti Python
 
 ### [Python da 0](https://colab.research.google.com/drive/1YusyKj-pGpYsNQGc88sLvBo3hFjnGrLO?usp=sharing)
-[![My Skills](https://skillicons.dev/icons?i=py)]()
-
 ![Screenshot del Progetto 3](Img/gwrrgwweg.PNG)
 
 In questo progetto ho usato Google Colab per imparare Python direttamente dal browser scrivendo tutte le funzioni base e usando degli esempi.
@@ -97,8 +95,8 @@ Descrizione breve del progetto 7. Spiega cosa fa il progetto e qualsiasi altra i
 ### [Nome del Progetto 8](https://github.com/tuo-username/nome-del-progetto-8)
 ![Screenshot del Progetto 8](link-al-tuo-screenshot.jpg)
 Descrizione breve del progetto 8. Spiega cosa fa il progetto e qualsiasi altra informazione rilevante.
--->
----
+
+[![My Skills](https://skillicons.dev/icons?i=py)]()
 
 ## Contattami
 
