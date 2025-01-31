@@ -69,6 +69,7 @@ Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
 
 ### [Python da 0](https://colab.research.google.com/drive/1YusyKj-pGpYsNQGc88sLvBo3hFjnGrLO?usp=sharing)
 [![My Skills](https://skillicons.dev/icons?i=py)]()
+
 ![Screenshot del Progetto 3](Img/gwrrgwweg.PNG)
 
 In questo progetto ho usato Google Colab per imparare Python direttamente dal browser scrivendo tutte le funzioni base e usando degli esempi.
