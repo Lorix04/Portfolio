@@ -63,7 +63,9 @@ Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
 
 **Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/dadi/index.html)
 
-**Link GitHub:** [Clicca qui](https://github.com/Lorix04/GiocoDadi)
+**Link GitHub:** 
+
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Lorix04/GiocoDadi)
 
 ## Progetti Python
 
