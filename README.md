@@ -15,7 +15,7 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 
 Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di accesso e registrazione per gli utenti, una home che presenta la pizzeria e le sue specialità e un menu dettagliato con tutte le pizze disponibili, complete di descrizioni e prezzi.
 
-**Tecnologie Usate:** HTML/JS/CSS/PHP/jQuery
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery)]()
 
 ### [Guess Who?](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
 ![Screenshot del Progetto 1](/Img/grgwewgewg.PNG)
@@ -25,7 +25,7 @@ L'utente potrà scegliere due modalità:
 - **Indovina PC:** Il PC dovrà indovinare il nostro personaggio  da noi scelto facendoci delle domande.
 - **Indovina Utente:** L'utente farà delle domande al PC per indovinare il personaggio da lui scelto.
 
-**Tecnologie Usate:** HTML/JS/CSS
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)]()
 
 ### [Gioco Dadi](https://github.com/Lorix04/GiocoDadi)
 ![Screenshot del Progetto 1](/Img/dadi.PNG)
