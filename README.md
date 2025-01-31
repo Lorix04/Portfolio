@@ -94,7 +94,7 @@ Descrizione breve del progetto 8. Spiega cosa fa il progetto e qualsiasi altra i
 - **Email:** lorenzo.domenico.cerantonio@gmail.com
 - **LinkedIn:** www.linkedin.com/in/lorenzo-cerantonio-4830052bb
   
-[![My Skills](https://skillicons.dev/icons?i=github)](www.linkedin.com/in/lorenzo-cerantonio-4830052bb)   [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=lorenzo.domenico.cerantonio@gmail.com&su=SUBJECT&body=BODY&bcc=lorenzo.domenico.cerantonio@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/lorenzo-cerantonio-4830052bb)   [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=lorenzo.domenico.cerantonio@gmail.com&su=SUBJECT&body=BODY&bcc=lorenzo.domenico.cerantonio@gmail.com)
 <!-- - **Sito Web:** [Il tuo sito web personale](https://tuo-sito-web.com) -->
 
 Grazie per aver visitato il mio portfolio!
