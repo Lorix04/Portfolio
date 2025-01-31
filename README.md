@@ -11,7 +11,7 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 ## Progetti Web
 
 ### [Gioco Dadi](http://www.lorenzocerantonio5bi.altervista.org/dadi/index.html)
-![Screenshot del Progetto 1](/Img/grgwewgewg.PNG)
+![Screenshot del Progetto 1](/Img/dadi.PNG)
 
 Benvenuto nel mio gioco di dadi! In questo gioco, l'utente si sfida contro un bot. 
 Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
