@@ -10,6 +10,13 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 
 ## Progetti Web
 
+### [Pizzeria Puzza](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
+![Screenshot del Progetto 2](/Img/yr5herhrjhdsert.PNG)
+
+Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di accesso e registrazione per gli utenti, una home che presenta la pizzeria e le sue specialità e un menu dettagliato con tutte le pizze disponibili, complete di descrizioni e prezzi.
+
+**Tecnologie Usate:** HTML/JS/CSS/PHP/jQuery
+
 ### [Guess Who?](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
 ![Screenshot del Progetto 1](/Img/grgwewgewg.PNG)
 
@@ -19,13 +26,6 @@ L'utente potrà scegliere due modalità:
 - **Indovina Utente:** L'utente farà delle domande al PC per indovinare il personaggio da lui scelto.
 
 **Tecnologie Usate:** HTML/JS/CSS
-
-### [Pizzeria Puzza](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
-![Screenshot del Progetto 2](/Img/yr5herhrjhdsert.PNG)
-
-Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di accesso e registrazione per gli utenti, una home che presenta la pizzeria e le sue specialità e un menu dettagliato con tutte le pizze disponibili, complete di descrizioni e prezzi.
-
-**Tecnologie Usate:** HTML/JS/CSS/PHP/jQuery
 
 ### [Gioco Dadi](https://github.com/Lorix04/GiocoDadi)
 ![Screenshot del Progetto 1](/Img/dadi.PNG)
