@@ -30,6 +30,7 @@ Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di access
 ![Screenshot del Progetto 1](/Img/grgwewgewg.PNG)
 
 **Descrizione:**
+
 "Guess Who?" è un coinvolgente gioco web che ho sviluppato, basato sul celebre gioco da tavolo.
 L'utente potrà scegliere due modalità:
 - **Indovina PC:** Il PC dovrà indovinare il nostro personaggio  da noi scelto facendoci delle domande.
@@ -45,6 +46,7 @@ L'utente potrà scegliere due modalità:
 ![Screenshot del Progetto 1](/Img/dadi.PNG)
 
 **Descrizione:**
+
 Benvenuto nel mio gioco di dadi! In questo gioco, l'utente si sfida contro un bot. 
 Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
 
