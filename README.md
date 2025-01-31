@@ -14,7 +14,7 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 ![Screenshot del Progetto 2](/Img/yr5herhrjhdsert.PNG)
 
 Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di accesso e registrazione per gli utenti, una home che presenta la pizzeria e le sue specialità e un menu dettagliato con tutte le pizze disponibili, complete di descrizioni e prezzi.
-<div align-items=center;>
+<div style="display: flex; justify-content: center; align-items: center;>
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery)]()
 </div>
 
