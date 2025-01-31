@@ -17,7 +17,9 @@ Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di access
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery)]()
 
+**Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
 
+**Link GitHub:** [Clicca qui]()
 
 ### [Guess Who?](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
 ![Screenshot del Progetto 1](/Img/grgwewgewg.PNG)
@@ -29,7 +31,9 @@ L'utente potrà scegliere due modalità:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)]()
 
+**Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
 
+**Link GitHub:** [Clicca qui](https://github.com/Lorix04/GiocoDadi)
 
 ### [Gioco Dadi](https://github.com/Lorix04/GiocoDadi)
 ![Screenshot del Progetto 1](/Img/dadi.PNG)
