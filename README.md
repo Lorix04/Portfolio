@@ -42,7 +42,7 @@ L'utente potrà scegliere due modalità:
 
 **Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
 
-**Link GitHub:** [Clicca qui](https://github.com/Lorix04/GiocoDadi)
+**Link GitHub:** [Clicca qui]()
 
 ### [Gioco Dadi](https://github.com/Lorix04/GiocoDadi)
 ![Screenshot del Progetto 1](/Img/dadi.PNG)
