@@ -39,10 +39,10 @@ L'utente potrà scegliere due modalità:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)]()
 
 **Progettazione:** [Clicca qui](https://neat-duke-19a.notion.site/Progetto-Indovina-Chi-d4bd52aa234f4671a55fc83f3064da6d)
-
+<!--
 **Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
-
-**Link GitHub:** [Clicca qui]()
+-->
+**Link GitHub:** [Coming soon]()
 
 ### [Gioco Dadi](https://github.com/Lorix04/GiocoDadi)
 ![Screenshot del Progetto 1](/Img/dadi.PNG)
