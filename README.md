@@ -21,10 +21,13 @@ Ho sviluppato un sito web per una pizzeria. Il sito include una pagina di access
 
 
 **Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
-
+<!--
 **Source GitHub**:
 
 [![My Skills](https://skillicons.dev/icons?i=github)]()
+-->
+
+**Link GitHub:** [Coming Soon]()
 
 ### [Guess Who?](http://www.lorenzocerantonio5bi.altervista.org/IndovinaChi/prova.html)
 ![Screenshot del Progetto 1](/Img/grgwewgewg.PNG)
