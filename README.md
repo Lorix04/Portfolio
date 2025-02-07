@@ -11,7 +11,7 @@ Benvenuti nel mio portfolio! Qui troverete una raccolta dei miei progetti, suddi
 ## Progetti Web
 
 ### [To-Do-List]()
-![Screenshot del Progetto](img/exemple.png)
+![Screenshot del Progetto](/Img//exemple.png)
 
 In questo progetto To-Do-List l'utente ha la possibilità di poter inserire la lista delle attività fare.
 
