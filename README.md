@@ -19,7 +19,7 @@ In questo progetto To-Do-List l'utente ha la possibilità di poter inserire la l
 2. **Data e Ora Attività (Opzionale)**: Inserire la data e l'orario della attività. [Giorno][Mese][Anno] [Ore][Minuti][Secondi] 
 3. **Lista delle Attività**: Dopo che i dati della attività sono state inserite verranno mostrate:
    - Nome: Il nome della attività
-   - Creato: Data creato l'attività. [Giorno][Mese][Anno] [Ore][Minuti][Secondi] 
+   - Creato: Data creaazione attività. [Giorno][Mese][Anno] [Ore][Minuti][Secondi] 
    - La Notifica (Opzionale): Aggiungi la data e l'orario della notifica.
    - Bottone Modifica: Modifica il nome e aggiunge/modifica la notifica.
    - Bottone Elimina: Elimina una attività.
