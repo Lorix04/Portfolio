@@ -33,7 +33,7 @@ In questo progetto **To-Do List**, l'utente può gestire le proprie attività qu
 
 **Link GitHub:** 
 
-[![My Skills](https://skillicons.dev/icons?i=github)]([https://github.com/Lorix04/GiocoDadi](https://github.com/Lorix04/To-Do-List))
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Lorix04/To-Do-List)
 
 
 ### [Pizzeria Puzza](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
