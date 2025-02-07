@@ -34,13 +34,6 @@ In questo progetto To-Do-List l'utente ha la possibilità di poter inserire la l
 
 [![My Skills](https://skillicons.dev/icons?i=github)]([https://github.com/Lorix04/GiocoDadi](https://github.com/Lorix04/To-Do-List))
 
-**Bug da Risolvere / Funzionalità da Aggiungere:** 
-- [Bug]: Se la lista è stata compeltata mostra i bottoni tagliati: Salva / Annulla
-- [Funzionalità]: Vorrei che l'utente possa scegliere di elencare le task per nome (dec/c)rescente/ notifica (dec/c)rescente / senza notifica / creato (dec/c)rescente
-
-
-**Data Modifica**: 07/02/2025
-
 
 ### [Pizzeria Puzza](http://www.lorenzocerantonio5bi.altervista.org/Guzzetta/login.html)
 ![Screenshot del Progetto 2](/Img/yr5herhrjhdsert.PNG)
