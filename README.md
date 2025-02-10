@@ -114,7 +114,8 @@ In questo progetto ho usato Google Colab per imparare Python direttamente dal br
 - **Email:** lorenzo.domenico.cerantonio@gmail.com
 - **LinkedIn:** www.linkedin.com/in/lorenzo-cerantonio-4830052bb
   
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/lorenzo-cerantonio-4830052bb)   [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=lorenzo.domenico.cerantonio@gmail.com&su=SUBJECT&body=BODY&bcc=lorenzo.domenico.cerantonio@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/lorenzo-cerantonio-4830052bb)   
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=lorenzo.domenico.cerantonio@gmail.com&su=SUBJECT&body=BODY&bcc=lorenzo.domenico.cerantonio@gmail.com)
 
 Grazie per aver visitato il mio portfolio!
 
